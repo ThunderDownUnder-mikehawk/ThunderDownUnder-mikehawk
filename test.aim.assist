@@ -45,7 +45,7 @@ def main():
     # Max FPS - The maximum number of frames per second that the aimbot can run at
     # Ideally this should be the same as the FPS of the game, double that if you have a high-spec system
     # If the aimbot makes your game lag, lower this value
-    Max_FPS = 150
+    Max_FPS = 60
 
     # Autoaim mouse movement amplifier
     aaMovementAmp = .4
